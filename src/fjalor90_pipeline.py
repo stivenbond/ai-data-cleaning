@@ -94,6 +94,6 @@ def process_file(input_path, output_path):
 if __name__ == "__main__":
     # Define paths
     input_file = "/Users/stivenbond/Desktop/Engineering/Projects/SWEng/AI-ML/data cleaning/src/transient_data/manually_cleaned/fjalor90.txt"
-    output_file = "/Users/stivenbond/Desktop/Engineering/Projects/SWEng/AI-ML/data cleaning/src/transient_data/manually_cleaned/fjalor90.jsonl"
+    output_file = "/Users/stivenbond/Desktop/Engineering/Projects/SWEng/AI-ML/data cleaning/src/transient_data/script_managed/fjalor90.jsonl"
     
     process_file(input_file, output_file)
